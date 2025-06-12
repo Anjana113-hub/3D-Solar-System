@@ -31,15 +31,6 @@
 
 ---
 
-# 3D Solar System 🌍🪐🌞
-
-A 3D simulation of the solar system built using Three.js.
-
-## 🚀 Live Demo
-
-👉 [Click here to view the live demo](https://your-live-demo-link.com)
-
----
 
 ## 📽️ Demo Video (Required)
 
