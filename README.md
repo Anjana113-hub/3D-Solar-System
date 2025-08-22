@@ -35,10 +35,6 @@
 
 A 3D simulation of the solar system built using Three.js.
 
-## 🚀 Live Demo
-
-👉 [Click here to view the live demo](https://anjana113-hub.github.io/3D-Solar-System/)
-
 
 
 ## 📽️ Demo Video (Required)
